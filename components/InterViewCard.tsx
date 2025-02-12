@@ -6,8 +6,7 @@ import { Button } from "./ui/button";
 import Link from "next/link";
 import DisplayTechIcons from "./DisplayTechIcons";
 const InterViewCard = ({
-  userId,
-  interviewId,
+  id,
   role,
   type,
   techstack,
@@ -61,8 +60,8 @@ const InterViewCard = ({
             <Link
               href={
                 feedback
-                  ? `/interview/${interviewId}/feedback`
-                  : `/interview/${interviewId}`
+                  ? `/interview/${id}/feedback`
+                  : `/interview/${id}`
               }
             >
               {feedback ? "Check Feedback" : "View Interview"}
