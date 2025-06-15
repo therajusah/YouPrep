@@ -1,7 +1,6 @@
-```markdown
 # YouPrep 🤖🎯
 
-**YouPrep** is an **AI-based interview preparation website** built using Google Gemini, designed to simulate real interview experiences and provide intelligent feedback. Whether you're preparing for technical roles, behavioral interviews, or domain-specific questions — YouPrep customizes the journey with generative AI and performance insights.
+**YouPrep** is an **AI-based interview preparation website** built using Google Gemini, designed to simulate real interview experiences and provide intelligent feedback. Whether you're preparing for technical roles, behavioural interviews, or domain-specific questions — YouPrep customizes the journey with generative AI and performance insights.
 
 ---
 
